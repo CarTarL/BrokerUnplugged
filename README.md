@@ -1,4 +1,4 @@
-# BrokerUnplugged
+# Broker Unplugged
 A rumble style game for CyberBrokers
 
 Create Discord bot in Developer Portal
