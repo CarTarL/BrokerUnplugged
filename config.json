@@ -1,0 +1,19 @@
+{
+  "dauth_token": "DISCORDAUTHTOKENHERE",
+  "app_id": "DISCORDAPPIDHERE",
+  "minPlayers": 5,
+  "roundInterval": 5,
+  "startingEmoji": "cbbu_gambler",
+  "maxActionsPerRound": 10,
+  "maxOutPerRoundPercent": 67,
+  "revivePercent": 2,
+  "demoTimeouts": [ 15, 5],
+  "saveInterval": 300,
+  "timeouts": [120, 60, 30, 10],
+  "roleRequire": true,
+  "roleName": "BU Admin",
+  "gameLogo": "https://cartarl.com/images/cb/game-brokerunplugged-logo3.png",
+  "gameDesc": "A game for Brokers with the ultimate reward - being the first Broker to be unplugged from the TPL and being returned to their earthly body.  Do you have what it takes to survive all the pitfalls of the game and be the victorious Broker at the end?\n\nClick the Gambler (dice) emoji below to play.\n",
+  "gameCredits": "[CarTarL](https://twitter.com/cartar_l), [Dot the Bot](https://twitter.com/digidot)",
+  "cbURL": "https://cyberbrokers.io"
+}
